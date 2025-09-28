@@ -1,3 +1,4 @@
+#ini untuk bank 
 payload:
 
   # E-Wallet / Dompet Digital
@@ -131,4 +132,5 @@ payload:
   - DOMAIN-SUFFIX,mufg.co.id
   - DOMAIN-SUFFIX,standardchartered.com
   - DOMAIN-SUFFIX,deutsche-bank.co.id
+
   - DOMAIN-SUFFIX,bankofchina.co.id
